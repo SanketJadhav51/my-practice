@@ -1,3 +1,7 @@
 print("Hello word")
 print("Rebase practice")
 print("Rebase practice 2")
+print("This is from feature branch")
+print("This is from feature branch1")
+print("Git test")
+print("Git cherry-pick test")
